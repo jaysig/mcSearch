@@ -1,0 +1,24 @@
+{
+  "name": "mc-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mcSearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysig/mcSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysig/mcSearch/issues"
+  },
+  "homepage": "https://github.com/jaysig/mcSearch#readme",
+  "devDependencies": {
+    "eslint": "^2.3.0",
+    "eslint-config-airbnb": "^6.1.0",
+    "eslint-plugin-react": "^4.2.1"
+  }
+}

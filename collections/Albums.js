@@ -13,7 +13,7 @@ Albums.allow({
 Albums.deny({
 	insert: () => true,
 	update: () => true,
-	remove: () =>
+	remove: () => true
 });
 
 let AlbumsSchema = new SimpleSchema({
